@@ -1,0 +1,6 @@
+langchain==0.3.2
+pinecone==1.6.0
+streamlit==0.88.0
+streamlit_chat==0.3.0
+streamlit_extras==0.2.0
+hugchat==0.2.0
